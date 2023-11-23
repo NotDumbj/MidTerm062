@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Student\source\repos\MidTerm062\Source.cpp(20,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\MidTerm062\Source.cpp(24,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MidTerm062.vcxproj -> C:\Users\Student\source\repos\MidTerm062\x64\Debug\MidTerm062.exe
